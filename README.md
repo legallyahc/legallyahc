@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hey!
 
+I'm Alice (she/her) , an undergraduate student in Sustainability, Science, and Society at McGill University. I have a penchant for R 
+and the interesting software ecosystem that surrounds it.
 <!--
 **legallyahc/legallyahc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
