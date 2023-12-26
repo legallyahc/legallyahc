@@ -5,4 +5,5 @@ and the interesting software ecosystem that surrounds it. My public repos tend t
 [ahcttc](https://github.com/legallyahc/ahcttc), and [speed](https://github.com/legallyahc/speed)) or the occassional academic feature 
 ([geog351-finalproject](https://github.com/legallyahc/geog351-finalproject)) and hopefully will host some larger things in the future.
 
-Because I imagine this website is pretty heavily trawled, you can contact me by forking a public repo and leaving some obvious message. I'll leave a nice website here when I have one.
+Because I imagine this website is pretty heavily trawled, you can contact me by forking a public repo and leaving some obvious message. 
+Or check the [Contact](https://ahclauss.com/contact) part of my website. Either way, have fun!
